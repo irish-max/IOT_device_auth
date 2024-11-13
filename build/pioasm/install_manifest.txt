@@ -1,0 +1,5 @@
+/home/pravid/pico/sslcert/build/pioasm-install/pioasm/pioasm
+/home/pravid/pico/sslcert/build/pioasm-install/pioasm/pioasmTargets.cmake
+/home/pravid/pico/sslcert/build/pioasm-install/pioasm/pioasmTargets-release.cmake
+/home/pravid/pico/sslcert/build/pioasm-install/pioasm/pioasmConfig.cmake
+/home/pravid/pico/sslcert/build/pioasm-install/pioasm/pioasmConfigVersion.cmake

@@ -1,0 +1,7 @@
+/home/pravid/pico/sslcert/build/pioasm/CMakeFiles/pioasm.dir
+/home/pravid/pico/sslcert/build/pioasm/CMakeFiles/edit_cache.dir
+/home/pravid/pico/sslcert/build/pioasm/CMakeFiles/rebuild_cache.dir
+/home/pravid/pico/sslcert/build/pioasm/CMakeFiles/list_install_components.dir
+/home/pravid/pico/sslcert/build/pioasm/CMakeFiles/install.dir
+/home/pravid/pico/sslcert/build/pioasm/CMakeFiles/install/local.dir
+/home/pravid/pico/sslcert/build/pioasm/CMakeFiles/install/strip.dir
